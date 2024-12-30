@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Airport Service
 
 ### Project Description
@@ -225,3 +226,6 @@ You can log in directly through the Swagger interface using your superuser crede
 | **POST**                    | `/api/user/token/verify/`                 | Verify the validity of a token           | Public            |
 
 ---
+=======
+# Airport-API-Service
+>>>>>>> a18e5a427849475c8c78cf6189873b2cf4634254
